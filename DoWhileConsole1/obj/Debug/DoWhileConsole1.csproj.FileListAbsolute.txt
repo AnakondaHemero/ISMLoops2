@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Ism\ISMLoops2\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+C:\Users\User\Desktop\Ism\ISMLoops2\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+C:\Users\User\Desktop\Ism\ISMLoops2\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+C:\Users\User\Desktop\Ism\ISMLoops2\DoWhileConsole1\obj\Debug\DoWhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ism\ISMLoops2\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+C:\Users\User\Desktop\Ism\ISMLoops2\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb
